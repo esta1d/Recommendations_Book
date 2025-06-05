@@ -20,5 +20,5 @@ The market for eBooks is constantly growing, leaving users overwhelmed by the va
 * * Create a hybrid model combining advantages of both approaches.
 
 ## Solution
-the solution is [here](https://github.com/esta1d/Recommendations_Book/blob/main/book_rec.ipynb)
-[libraries used](https://github.com/esta1d/Recommendations_Book/blob/main/requirements.txt)
+* the solution is [here](https://github.com/esta1d/Recommendations_Book/blob/main/book_rec.ipynb)
+* [libraries used](https://github.com/esta1d/Recommendations_Book/blob/main/requirements.txt)
