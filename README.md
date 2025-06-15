@@ -4,7 +4,7 @@ Recommendations_Book
 ## Project Description
 The Recommendations_Book project is a book recommendation system designed to enhance the process of selecting literature for users based on analyzing reader preferences and characteristics of books themselves. The primary goal of the project is to create personalized recommendations that help users find interesting and suitable books more quickly and efficiently.
 
-<img src="https://mk.mosreg.ru/upload/files/8/c/8cfCbJE1GyBKpOwsKxMOuel3GNb3ariMHfbSZaFVVnTfdOmwDvFnoouWtQ4UhUg95jVWvv5sWVwTECVBtDjiviY3A5flm6y7.jpg">
+<img src="https://i.pinimg.com/originals/7f/c9/80/7fc980996fa656a9b133ea4b598e97d3.png">
 
 ## Development Stages:
 
@@ -28,6 +28,20 @@ The Recommendations_Book project is a book recommendation system designed to enh
 For implementing the project, the following tools and libraries were used in Python:
 Pandas, NumPy Scikit-Learn, Surprise, LightFM
 
+
+Project structure
+```
+prediction_taxi_ride_duration/
+│
+├── data                  
+│   └── *.csv 
+├── img                  
+│   └── *.png                      
+├── book_rec.ipynb           
+├── .gitignore              
+├── README.md               
+└── requirements.txt         
+```
 
 ## General links
 * ***[solution](https://github.com/esta1d/Recommendations_Book/blob/main/book_rec.ipynb)***
