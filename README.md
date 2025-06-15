@@ -4,7 +4,7 @@ Recommendations_Book
 ## Project Description
 The Recommendations_Book project is a book recommendation system designed to enhance the process of selecting literature for users based on analyzing reader preferences and characteristics of books themselves. The primary goal of the project is to create personalized recommendations that help users find interesting and suitable books more quickly and efficiently.
 
-<img src="https://i.pinimg.com/originals/7f/c9/80/7fc980996fa656a9b133ea4b598e97d3.png">
+<img src="https://abrakadabra.fun/uploads/posts/2021-12/1640424262_31-abrakadabra-fun-p-kniga-raskritaya-vektor-31.png">
 
 ## Development Stages:
 
@@ -31,7 +31,7 @@ Pandas, NumPy Scikit-Learn, Surprise, LightFM
 
 Project structure
 ```
-prediction_taxi_ride_duration/
+recommendation_book/
 │
 ├── data                  
 │   └── *.csv 
